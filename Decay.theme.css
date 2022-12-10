@@ -5,7 +5,7 @@
  * @description Port of Decay color scheme for Discord to make it more eye friendly! Supports both Dark and Light themes. - Inspired by MinimalCord by Gibbu#1211. */
 
 /* -- Imported Fonts -- */
-@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;600;700;900&display=swap');
 
 /* -- Root / Global variables -- */
 :root {
