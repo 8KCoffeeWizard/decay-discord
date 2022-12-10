@@ -24,12 +24,12 @@
         To use a custom font. Visit https://fonts.google.com and select one to your liking.
         Now just follow this tutorial: https://imgur.com/a/CNbw7xC
     */
-    /* --font: 'Fredoka'; */
+     --font: 'Albert Sans'; 
 
 
   --border-radius: 5px;
-  /* --font-primary: var(--font);
-     --font-display: var(--font); */
+  --font-primary: var(--font);
+  -font-display: var(--font); 
   --discord-green: 120 219 169; /* Decay Green */
   --discord-yellow: 241 207 138; /* Decay Yellow(Orange) */
   --discord-red: 224 95 101; /* Decay Red */
